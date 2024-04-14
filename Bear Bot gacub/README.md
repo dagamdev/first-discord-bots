@@ -1,5 +1,7 @@
 # Bear Bot
 
+*Creado el 29/09/2021*
+
 Un bot que empeze a desarrollador para que fuese útil para ayudar a reconstruir un servidor raideando, en ese tiempo experimente muchos raideos de servidores conocidos y de amigos o incluso de personas que eran miembros de alguno de mis servidores.
 
 Normalmente los raideos en servidores pasaban por qué los administradores agregaban un bot malicioso al servidor sin saber sus intenciones y el bot eliminaban todos los canales y roles y creaba muchos canales y roles con algún nombre característico.
