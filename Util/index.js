@@ -3,7 +3,7 @@ const ms = require("ms"), mongoose = require("mongoose"), { SlashCommandBuilder,
 const creadorID = "717420870267830382", creadoresID = ["717420870267830382","825186118050775052"], colorEmb = "#2c889f", colorEmbInfo = "#2c889f", ColorError = "#ff0000", emojis = {negativo: "<a:negativo:856967325505159169>", acierto: "<a:afirmativo:856966728806432778>", puntos: "<:StaffPoint:957357854120116234>", lupa: "<:lupa:958820188457930892>", alianza: "<:alianza:988570799600435240>"}, invitacion = "https://discord.com/api/oauth2/authorize?client_id=935707268090056734&permissions=1239568329975&scope=bot%20applications.commands", serverSuport = "https://discord.gg/G7GUD7eNCb", webPage = "https://util-bot.netlify.app/"
 Canvas.registerFont("./tipo.otf", {family: "MADE TOMMY"});
 
-mongoose.connect("mongodb+srv://Music:oQJo4VnF3rXj615k@ssbot.jbt17.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",{
+mongoose.connect("mongodb+url",{
    useNewUrlParser: true,
    useUnifiedTopology: true
 }).then(()=>{
